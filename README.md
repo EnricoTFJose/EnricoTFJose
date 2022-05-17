@@ -1,0 +1,5 @@
+- 👋 Hi, I’m José Enrico T. Felipe
+- 👀 I’m interested in start my career on technology.
+- 🌱 I’m currently learning Data Science and Machine Learning.
+- 💞️ I’m looking to collaborate on new projects in my area.
+- 📫 How to reach me : joseetfelipe@gmail.com
